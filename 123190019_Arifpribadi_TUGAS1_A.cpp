@@ -5,7 +5,7 @@ main()
 	int b,k;
 
 	cout<<"aku ";
-	cout<<"11111111111111111111: ";
+	cout<<"simulasi untuk grup 1111111 : ";
 	cin >>k;
 
 	string matriks[b][k];

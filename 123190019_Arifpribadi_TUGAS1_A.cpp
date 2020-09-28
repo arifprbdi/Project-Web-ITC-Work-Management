@@ -5,7 +5,7 @@ main()
 	int b,k;
 
 	cout<<"aku ";
-	cout<<"sudah gela : ";
+	cout<<"11111111111111111111: ";
 	cin >>k;
 
 	string matriks[b][k];

@@ -3,6 +3,8 @@ using namespace std;
 main()
 {
 	int b,k;
+
+	cout<<"aku ";
 	cout<<"sudah gela : ";
 	cin >>k;
 

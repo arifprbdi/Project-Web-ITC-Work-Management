@@ -3,11 +3,6 @@ using namespace std;
 main()
 {
 	int b,k;
-	cout<<"anjay : ";
-	cout<<"BELAJAR YA";
-	cout<<"SABAR YA ARIP";
-	cout<<"coba terus";
-	cin>>b;
 	cout<<"INPUT Kolom Matriks : ";
 	cin >>k;
 

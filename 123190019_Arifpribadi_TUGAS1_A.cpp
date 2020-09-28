@@ -3,7 +3,7 @@ using namespace std;
 main()
 {
 	int b,k;
-	cout<<"INPUT Kolom Matriks : ";
+	cout<<"aku ";
 	cin >>k;
 
 	string matriks[b][k];

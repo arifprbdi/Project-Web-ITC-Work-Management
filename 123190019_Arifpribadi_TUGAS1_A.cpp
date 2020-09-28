@@ -4,6 +4,7 @@ main()
 {
 	int b,k;
 	cout<<"INPUT Baris Matriks : ";
+	cout<<"BELAJAR YA";
 	cin>>b;
 	cout<<"INPUT Kolom Matriks : ";
 	cin >>k;

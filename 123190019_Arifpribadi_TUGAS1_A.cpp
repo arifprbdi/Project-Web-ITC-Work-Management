@@ -3,7 +3,7 @@ using namespace std;
 main()
 {
 	int b,k;
-	cout<<"INPUT Baris Matriks : ";
+	cout<<"anjay : ";
 	cout<<"BELAJAR YA";
 	cout<<"SABAR YA ARIP";
 	cout<<"coba terus";

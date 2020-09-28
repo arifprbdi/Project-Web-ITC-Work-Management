@@ -6,6 +6,7 @@ main()
 	cout<<"INPUT Baris Matriks : ";
 	cout<<"BELAJAR YA";
 	cout<<"SABAR YA ARIP";
+	cout<<"coba terus";
 	cin>>b;
 	cout<<"INPUT Kolom Matriks : ";
 	cin >>k;

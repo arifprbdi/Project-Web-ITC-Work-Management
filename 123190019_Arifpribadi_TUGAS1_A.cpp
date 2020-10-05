@@ -2,11 +2,10 @@
 using namespace std;
 main()
 {
-	cout << "HAI ARIP AKU PUSH";
 	int b,k;
 
 	cout<<"aku ";
-	cout<<"simulasi untuk grup 1111111 : ";
+	cout<<"ONENG ANAK PAK AWANG: ";
 	cin >>k;
 
 	string matriks[b][k];

@@ -2,6 +2,7 @@
 using namespace std;
 main()
 {
+	cout << "HAI ARIP AKU PUSH";
 	int b,k;
 
 	cout<<"aku ";
